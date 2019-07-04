@@ -10,3 +10,6 @@ You need to install few libraries
 4.tkinter is use for GUI.
 
 Through this project I am able to achieve accuracy of 96%.
+
+Training: Training a model can take upto 10 hours so 
+I have also included the file of trained data. 
